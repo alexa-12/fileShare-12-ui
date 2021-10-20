@@ -2,7 +2,7 @@
 
 Simple file sharing web app with drag and drop file upload
 
-> ApI is hosted at Heroku and frontend at netlify [Give it a try !!](https://in-share.netlify.app/)
+> ApI is hosted at Heroku and frontend at netlify [Give it a try !!](https://file-share-in.netlify.app/)
 
 ## Overview:)
 
@@ -21,7 +21,7 @@ Simple file sharing web app with drag and drop file upload
 
 ## How to used:)
 
-- Go to this link https://in-share.netlify.app and click on browse or dragg file
+- Go to this link https://file-share-in.netlify.app/ and click on browse or dragg file
   and keep in mind file size should we <= 100MB and don't upload a folder make
   a zip file before uploading.
 
@@ -48,6 +48,3 @@ Simple file sharing web app with drag and drop file upload
 
 ![](./ui/in5.png)
 
-- If you alter inside the uuid of the download link that will lead to a 404 page
-
-![](./ui/in6.png)
